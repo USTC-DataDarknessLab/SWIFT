@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: dgl
+Version: 0.9.1.post1
+Summary: Deep Graph Library
+Home-page: https://github.com/dmlc/dgl
+Maintainer: DGL Team
+Maintainer-email: wmjlyjemaine@gmail.com
+License: APACHE
+Classifier: Development Status :: 3 - Alpha
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: Apache Software License
